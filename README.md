@@ -3,7 +3,7 @@
 Paper repository for “Learn to Pool: Lightweight Fine-Tuning for Flexible Multi-Vector Compression”.
 
 PDF:
-- `download/paper.pdf`
+- `downloads/paper.pdf`
 
 Paper license:
 - CC BY 4.0
