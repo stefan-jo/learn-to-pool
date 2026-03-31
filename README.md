@@ -2,8 +2,7 @@
 
 Paper repository for “Learn to Pool: Lightweight Fine-Tuning for Flexible Multi-Vector Compression”.
 
-PDF:
-- `downloads/paper.pdf`
+[Read the paper (PDF)](https://stefan-jo.github.io/learn-to-pool/downloads/paper.pdf)
 
 Paper license:
 - CC BY 4.0
